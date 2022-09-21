@@ -2,7 +2,7 @@
 
 Membuat Dynamic Island menggunakan Flutter
 
-# Prewview Video
+# Preview Video
 * https://youtube.com/shorts/hCgc-UxjTTs?feature=share
 
 <img src="screenshot/dynamic_island_azharrivaldi.png" data-canonical-src="screenshot/dynamic_island_azharrivaldi.png" style="max-width:100%;">
